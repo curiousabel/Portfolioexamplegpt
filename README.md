@@ -1,6 +1,6 @@
 # Portfolioexamplegpt
 
 
-![website landing page](https://raw.githubusercontent.com/curiousabel/portfolioexamplegt/justhtml.PNG)
+![website landing page](https://github.com/curiousabel/Portfolioexamplegpt/blob/main/justhtml.PNG)
 
-![website landing page](https://raw.githubusercontent.com/curiousabel/portfolioexamplegt/withcss.PNG)
+![website landing page](https://github.com/curiousabel/Portfolioexamplegpt/blob/main/withcss.PNG)
