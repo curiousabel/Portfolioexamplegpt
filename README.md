@@ -1,5 +1,4 @@
 
-
 # Code Just HTML
 ![website landing page](https://github.com/curiousabel/Portfolioexamplegpt/blob/main/justhtml.PNG)
 # Code With CSS Added
