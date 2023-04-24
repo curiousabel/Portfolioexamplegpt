@@ -3,4 +3,4 @@
 
 ![website landing page](https://github.com/curiousabel/Portfolioexamplegpt/blob/main/justhtml.PNG)
 
-![website landing page](https://github.com/curiousabel/Portfolioexamplegpt/blob/main/withcss.PNG)
+![website landing page](https://github.com/curiousabel/Portfolioexamplegpt/blob/main/withcss.png)
